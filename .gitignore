@@ -1,0 +1,13 @@
+# Credenciales
+.env
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Editor / sistema
+.vscode/
+.idea/
+.DS_Store
